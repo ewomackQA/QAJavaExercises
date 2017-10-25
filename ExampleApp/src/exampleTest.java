@@ -23,5 +23,5 @@ class exampleTest {
 		g.addVeihcle(c);
 		g.removeVehicle(0);
 	}
-
+asdsad
 }
